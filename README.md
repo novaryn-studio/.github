@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Εδώ θα μπει το premium header banner που σου έφτιαξα -->
-  <img src="https://github.com/novaryn/.github/raw/main/image_13.png" alt="NOVARYN Header Banner" width="100%" />
+  <img src=C:\Users\User\Desktop\NOVARYN\Logo\app icon.jpg"NOVARYN Header Banner" width="100%" />
 
   <br />
 
