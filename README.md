@@ -15,6 +15,6 @@
 
 ---
 
-<p>Contact: hello@novaryn...@proton.me</p>
+<p>Contact: novaryn.studio@proton.me</p>
 
 </div>
